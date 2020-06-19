@@ -1,0 +1,2 @@
+# WiredBrainCoffee.ShopInfoTool
+Initial push

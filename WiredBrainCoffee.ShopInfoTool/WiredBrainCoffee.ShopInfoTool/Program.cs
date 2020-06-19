@@ -9,6 +9,7 @@ namespace WiredBrainCoffee.ShopInfoTool
             Console.WriteLine("Wired Brain Coffee - Shop Info Tool!");
             Console.WriteLine("Added Data Access");
             Console.WriteLine("Program changed in branch");
+            Console.WriteLine("Program changed in branch command 2");
         }
     }
 }
